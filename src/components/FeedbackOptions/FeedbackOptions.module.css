@@ -13,8 +13,8 @@
     border-radius: 10px;
     background-color: rgb(107, 102, 90);
     box-shadow:
-        inset rgba(123, 115, 115, 0.3) -5px -5px 8px 5px,
-        1px 1px 1px rgba(255, 255, 255, 0.1);
+        inset rgba(243, 207, 5, 0.922) -5px -5px 8px 5px,
+        1px 1px 1px rgba(5, 1, 1, 0.033);
     cursor: pointer;
     transition: all 250ms var(--timingFn);
 }
